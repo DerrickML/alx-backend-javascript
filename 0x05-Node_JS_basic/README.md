@@ -1,6 +1,3 @@
-﻿![](Top.png)
-
-
 # Requirements
 
 ## General
